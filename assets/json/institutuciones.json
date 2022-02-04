@@ -1,26 +1,346 @@
 [
 	{
-		"ente_publico": "SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE PUEBLA",
-		"clave": "SESEA PUEBLA",
-		"servidor_publico_recibe": {
-			"nombre": "Juan Perez Tellez",
-			"cargo": "Director general de Responsabilidades y Verificación Patrimonial"
-		}
+	  "ente_publico": "SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE MORELOS",
+	  "clave": "SESEA MORELOS",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
 	},
 	{
-		"ente_publico": "MUNICIPIO DE VENUSTIANO CARRANZA PUEBLA",
-		"clave": "MUN VC",
-		"servidor_publico_recibe": {
-			"nombre": "Juan Perez Tellez",
-			"cargo": "Director general de Responsabilidades y Verificación Patrimonial"
-		}
+	  "ente_publico": "MUNICIPIO DE AMACUZAC ",
+	  "clave": "MUN AMACUZAC",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
 	},
 	{
-		"ente_publico": "MUNICIPIO DE JALPAN PUEBLA",
-		"clave": "MUN JALPAN",
-		"servidor_publico_recibe": {
-			"nombre": "Juan Perez Tellez",
-			"cargo": "Director general de Responsabilidades y Verificación Patrimonial"
-		}
+	  "ente_publico": "MUNICIPIO DE ATLATLAHUACAN",
+	  "clave": "MUN ATLATLAHUACAN",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE AXOCHIAPAN",
+	  "clave": "MUN AXOCHIAPAN",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE AYALA",
+	  "clave": "MUN CUER",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE COATETELCO",
+	  "clave": "MUN COATETELCO ",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE COATLAN DEL RIO",
+	  "clave": "MUN COATLAN DEL RIO",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE CUAUTLA",
+	  "clave": "MUN CUAUTLA",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE CUERNAVACA",
+	  "clave": "MUN CUER",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE EMILIANO ZAPATA",
+	  "clave": "MUN EMILIANO ZAPATA",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE HUEYAPAN",
+	  "clave": "MUN HUEYAPAN",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE HUITZILAC",
+	  "clave": "MUN HUITZILAC",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE JANTETELCO",
+	  "clave": "MUN JANTETELCO",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE JIUTEPEC",
+	  "clave": "MUN JIUTEPEC",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE JOJUTLA",
+	  "clave": "MUN JOJUTLA",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE JONACATEPEC",
+	  "clave": "MUN JONACATEPEC",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE MAZATEPEC",
+	  "clave": "MUN MAZATEPEC",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE MIACATLAN",
+	  "clave": "MUN MIACATLAN",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE OCUITUCO",
+	  "clave": "MUN OCUITUCO",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE PUENTE DE IXTLA",
+	  "clave": "MUN PUENTE DE IXTLA",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE TEMIXCO",
+	  "clave": "MUN TEMIXCO",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE TEMOAC",
+	  "clave": "MUN TEMOAC",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE TEPALCINGO",
+	  "clave": "MUN TEPALCINGO",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE TEPOZTLAN",
+	  "clave": "MUN TEPOZTLAN",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE TETECALA",
+	  "clave": "MUN TETECALA",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE TETELA DEL VOLCÁN",
+	  "clave": "MUN TETELA DEL VOLCÁN",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE TLALNEPANTLA",
+	  "clave": "MUN TLALNEPANTLA",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE TLALTIZAPAN DE ZAPATA",
+	  "clave": "MUN TLALTIZAPAN DE ZAPATA",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE TLAQUILTENANGO",
+	  "clave": "MUN TLAQUILTENANGO",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE TLAYACAPAN",
+	  "clave": "MUN TLAYACAPAN",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE TOTOLAPAN",
+	  "clave": "MUN TOTOLAPAN",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE XOCHITEPEC",
+	  "clave": "MUN XOCHITEPEC",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE XOXOCOTLA",
+	  "clave": "MUN XOXOCOTLA",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE YAUTEPEC",
+	  "clave": "MUN YAUTEPEC",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE YECAPIXTLA",
+	  "clave": "MUN YECAPIXTLA",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE ZACATEPEC",
+	  "clave": "MUN ZACATEPEC",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "MUNICIPIO DE ZACUALPAN DE AMILPAS",
+	  "clave": "MUN ZACUALPAN DE AMILPAS",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "PODER LEGISLATIVO DEL ESTADO DE MORELOS",
+	  "clave": "ESAF",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "INSTITUTO MORELENSE DE INFORMACION PUBLICA Y ESTADISTICA",
+	  "clave": "IMIPE",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "PODER JUDICIAL DEL ESTADO DE MORELOS",
+	  "clave": "TSJMOR",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS",
+	  "clave": "TJAMOR",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "PODER EJECUTIVO DEL ESTADO DE MORELOS",
+	  "clave": "PODEREJECUTIVOMORELOS",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
+	},
+	{
+	  "ente_publico": "FISCALIA GENERAL DEL ESTADO DE MORELOS",
+	  "clave": "FGEMORELOS",
+	  "servidor_publico_recibe": {
+		"nombre": "",
+		"cargo": ""
+	  }
 	}
-]
+  ]
